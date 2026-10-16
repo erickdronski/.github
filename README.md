@@ -1,5 +1,19 @@
-# Erick Dronski repository standards
+# Repository standards
 
-This repository provides default contribution, conduct, support, security, issue, and pull-request guidance for public repositories owned by [`@erickdronski`](https://github.com/erickdronski).
+Shared contribution, support, and security guidance for public repositories
+maintained by [Erick Dronski](https://github.com/erickdronski).
 
-Project-specific instructions take precedence when a repository contains its own policy or template. Product repositories may be public source, source-available, archived, or open source; check each repository's `LICENSE` and status before using its code.
+For projects and professional background, start with the
+[GitHub profile](https://github.com/erickdronski).
+
+| Resource | Purpose |
+| --- | --- |
+| [Contributing](CONTRIBUTING.md) | Proposing a focused, tested change |
+| [Code of conduct](CODE_OF_CONDUCT.md) | Expectations for collaboration |
+| [Support](SUPPORT.md) | Reporting bugs and requesting help |
+| [Security](SECURITY.md) | Reporting vulnerabilities privately |
+| [Issue templates](.github/ISSUE_TEMPLATE/) | Structured bug reports and feature requests |
+| [Pull request template](.github/pull_request_template.md) | Context and validation for a proposed change |
+
+Project-specific guidance takes precedence. Each repository's README and
+license explain its status, permitted uses, and contribution process.
